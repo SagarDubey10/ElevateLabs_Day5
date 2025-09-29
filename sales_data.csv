@@ -1,0 +1,16 @@
+OrderID,Date,Category,Product,UnitsSold,PricePerUnit
+101,2025-07-01,Electronics,Laptop,5,1200
+102,2025-07-01,Clothing,T-Shirt,50,25
+103,2025-07-02,Electronics,Smartphone,10,800
+104,2025-07-02,Home Goods,Coffee Maker,8,60
+105,2025-07-03,Clothing,Jeans,30,75
+106,2025-07-03,Electronics,Laptop,3,1250
+107,2025-07-04,Books,Python Intro,100,40
+108,2025-07-04,Home Goods,Blender,12,50
+109,2025-07-05,Electronics,Smartphone,15,820
+110,2025-07-05,Clothing,T-Shirt,80,25
+111,2025-07-06,Books,Data Science Basics,70,55
+112,2025-07-06,Electronics,Headphones,25,150
+113,2025-07-07,Home Goods,Coffee Maker,5,65
+114,2025-07-07,Clothing,Jeans,25,75
+115,2025-07-08,Electronics,Headphones,30,140
